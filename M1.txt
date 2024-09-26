@@ -1,1 +1,2 @@
 
+[FBAN/FB4A;FBAV/204.0.0.24.101;FBBV/138170440;FBDM/{density=2.70,width=1080,height=2688};FBLC/en_US;FBRV/138170440;FBCR/;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/Y18;FBSV/9.0.1;FBBK/1;FBOP/15;FBCA/armeabi-v7a:armeabi;]
